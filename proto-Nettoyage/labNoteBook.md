@@ -5,11 +5,13 @@
 Développer le prototype, préparer et tester les échantillons de différentes concentrations et trouver un indicateur qui permet d'identifier les phases du nettoyage.
 
 
+
 ### Montage
 
 ![Schéma du montage possible](schemaProto.png)
 
 La pertinence des lentilles sera évaluée en laboratoire. La DEL et le détecteur peuvent être rapprochés de l'échantillon afin de perdre moins de lumière et ne pas utiliser de lentilles. 
+
 
 
 ### Matériel
@@ -24,6 +26,7 @@ La pertinence des lentilles sera évaluée en laboratoire. La DEL et le détecte
 - Détecteur Thorlabs DET avec multimètre
 - Lentilles
 - Éprouvettes rectangulaires avec support styromousse
+
 
 
 ### Protocole
