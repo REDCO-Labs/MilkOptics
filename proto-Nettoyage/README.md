@@ -2,17 +2,17 @@
 
 ### But
 
-Reconnaître la composition du mélange présent à l'intérieur des conduits en temps réel afin de mieux identifier les différentes phases du nettoyage. Cela permettra de rendre le processus plus efficace et précis. 
+Reconnaître la composition du mélange présent à l'intérieur des conduits en temps réel afin de mieux identifier les différentes phases du nettoyage et ainsi optimiser le processus. . 
 
 
 
 ### Prototype
 
-- **Développer un système simple d'interrogation optique par diffusion.**
+- **Développer un système simple d'interrogation optique par absorption.**
 
   - Source DEL blanche
 
-    > Il peut être nécessaire de placer la DEL près de l'échantillon ou contenir la lumière en la collimant à l'aide de lentilles (ou prendre une source laser ?).
+    > Il peut être nécessaire de placer la DEL près de l'échantillon ou contenir la lumière en la collimant à l'aide de lentilles.
 
   - Éprouvettes rectangulaires en verre
 
@@ -26,16 +26,19 @@ Reconnaître la composition du mélange présent à l'intérieur des conduits en
 
     > Différentes concentrations de mélanges caustique-eau et caustique-lait. Pour ces deux mélanges, il faudrait tester différents rapports afin d'obtenir un étalonnage. Il serait pertinent de tester plus de mélanges près de la transition (caustique 100% et 0%). 
 
-  - Capteur de puissance.
+  - Spectromètre
 
-    > Classique Thorlabs DET. Capteurs CCD et CMOS disponibles ?
+    > Ocean Optics USB Spectrometer (disponible au labo)
     >
     > Focaliser la lumière transmise diffuse sur le capteur ?
 
 - **Caractériser les différents mélanges: Lait -> Caustique -> Eau.**
-  - Noter la puissance transmise pour les différents échantillons. Grapher le tout en fonction de la concentration.
-- **Analyser les données afin de trouver un indicateur qui permet de reconnaître les transitions.** 
-  - Par exemple : threshold d'intensité sur la puissance transmise. 
+
+  - Obtenir les spectres de transmission en lumière blanche des différents mélanges possibles.
+
+- **Obtenir une métrique unique pour chacun**
+
+  - Analyser les spectres en transmission des solutions afin de trouver une métrique unique pour chacun. 
 
 
 
