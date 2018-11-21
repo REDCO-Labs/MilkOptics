@@ -40,7 +40,7 @@ La pertinence des lentilles sera évaluée en laboratoire. La DEL et le spectrom
 
     - Eau. Lait. Caustique. Eau-Lait (50-50)%. Lait-Caustique (50-50)%. Caustique-Eau (50-50)%.
 
-    > Possible aussi de tester un plus grand éventail de concentrations, par exemple, [%caustique début: fin: bond] pour les deux mélange: $[0:10:2]$, $[10:90:20]$, $[90:100:2]$. 
+    > Possible aussi de tester un plus grand éventail de concentrations, par exemple, [%caustique début: fin: bond] pour les deux mélange: $[0:10:2]$, $[10:90:20]$, $[90: 100 :2]$. 
 
 - Monter le circuit optique
 
