@@ -12,7 +12,7 @@ Développer le prototype, préparer les échantillons de différentes concentrat
 
 [Source](https://www.thorlabs.com/catalogpages/V21/1366.PDF)
 
-![](OSLemission.png)
+![](figs/OSLemission.png)
 
 ***2. Charactéristiques du spectromètre USB4000***
 
@@ -28,7 +28,7 @@ Entrée est fibrée.
 
 [Liste complète des pics du spectre](http://njsas.org/projects/atoms/spectral_lines/1/mercury_nist.html)
 
-![](mercurySpectrum.png)
+![](figs/mercurySpectrum.png)
 
 ***4. Spectre de transmission attendu pour le lait***
 
@@ -61,7 +61,7 @@ Entrée est fibrée.
 
 ### Montage
 
-![Schéma du montage possible](montageNew.jpg)
+![Schéma du montage possible](figs/montageNew.jpg)
 
 La pertinence des lentilles sera évaluée en laboratoire. La DEL et le spectromètre peuvent être rapprochés de l'échantillon afin de perdre moins de lumière et ne pas utiliser de lentilles. 
 
@@ -94,3 +94,4 @@ La pertinence des lentilles sera évaluée en laboratoire. La DEL et le spectrom
 
 
 ### 
+
