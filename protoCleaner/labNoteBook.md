@@ -93,5 +93,36 @@ La pertinence des lentilles sera évaluée en laboratoire. La DEL et le spectrom
 
 
 
-### 
+### Laboratoire : Séance #1
+
+**Date : ** 17 février 2019
+
+##### Préparation des échantillons 
+
+Les échantillons n'ont pas encore été obtenus. Les tests effectués ont été fait un échantillon vide, un échantillon d'eau du robinet du laboratoire et un échantillon de nettoyage Scrubbing Bubbles Fantastick. 
+
+ 
+
+##### Monter le circuit optique
+
+Le circuit optique ci-dessous a été monté : 
+
+![](figs/montageLab.jpg)
+
+
+L'OSL1 est confiné par le tube afin de restreindre la lumière et éviter l'aveuglement. Le support pour les échantillons a été emprunté du montage de spectroscopie Raman. 
+
+Possibilité de mettre une lentille entre le tube et le support de la source lumineuse
+
+> Est-ce qu'on devrait?
+
+
+
+##### Calibre le spectromètre
+
+Le spectromètre Ocean Optics USB4000 est déjà calibré, c'est-à-dire que les données obtenus sont en fonction de la longueur d'onde et non de la position sur le capteur. La calibration avec la lampe au mercure n'est donc pas necéssaire.
+
+
+
+##### Obtenir les différents spectres voulus
 
