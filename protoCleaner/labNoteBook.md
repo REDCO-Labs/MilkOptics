@@ -126,3 +126,33 @@ Le spectromètre Ocean Optics USB4000 est déjà calibré, c'est-à-dire que les
 
 ##### Obtenir les différents spectres voulus
 
+*Spectre 1 : Pas d'échantillon*
+
+![](spectra/spectreNada.PNG)
+
+> eeerre
+
+
+
+*Spectre 2  : Échantillon vide*
+
+![](spectra/spectreVide.PNG)
+
+> erer
+
+
+
+*Spectre 3 : Échantillon d'eau*
+
+![](spectra/spectreEau.PNG)
+
+> eeer
+
+
+
+*Spectre 4 : Échantillon de Fantastick*
+
+![](spectra/spectreFanta.PNG)
+
+> eeeffe
+
