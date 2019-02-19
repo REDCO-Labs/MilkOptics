@@ -114,13 +114,13 @@ L'OSL1 est confiné par le tube afin de restreindre la lumière et éviter l'ave
 
 Possibilité de mettre une lentille entre le tube et le support de la source lumineuse
 
-> Est-ce qu'on devrait?
+> Cela permettrait de mieux concentrer l'intensité lumineuse sur l'échantillon. La fibre du spectromètre pourrait être déplacé sur le côté afin de ne pas capter la lumière transmise. 
 
 
 
-##### Calibre le spectromètre
+##### Calibration du spectromètre
 
-Le spectromètre Ocean Optics USB4000 est déjà calibré, c'est-à-dire que les données obtenus sont en fonction de la longueur d'onde et non de la position sur le capteur. La calibration avec la lampe au mercure n'est donc pas necéssaire.
+Le spectromètre Ocean Optics USB4000 est déjà calibré, c'est-à-dire que les données obtenues sont en fonction de la longueur d'onde et non de la position sur le capteur. La calibration avec la lampe au mercure n'est donc pas necéssaire.
 
 
 
@@ -130,15 +130,11 @@ Le spectromètre Ocean Optics USB4000 est déjà calibré, c'est-à-dire que les
 
 ![](spectra/spectreNada.PNG)
 
-> eeerre
-
 
 
 *Spectre 2  : Échantillon vide*
 
 ![](spectra/spectreVide.PNG)
-
-> erer
 
 
 
@@ -146,13 +142,10 @@ Le spectromètre Ocean Optics USB4000 est déjà calibré, c'est-à-dire que les
 
 ![](spectra/spectreEau.PNG)
 
-> eeer
-
 
 
 *Spectre 4 : Échantillon de Fantastick*
 
 ![](spectra/spectreFanta.PNG)
 
-> eeeffe
-
+> On observe une baisse d'intensité près de 440nm pour l'échantillon de Fantastick.
