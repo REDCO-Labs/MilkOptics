@@ -43,3 +43,9 @@ Reconnaître la composition du mélange présent à l'intérieur des conduits en
 
 
 **BUDGET: **La plupart des composantes nécessaires pour ce prototype sont déjà disponibles ou peu dispendieuses.
+
+
+
+Pour faire un prototype de système avec circulation (si nécessaire), Daniel a une petite pompe simple qui ressemble à celle-la:
+
+![Image result for syringe pump](assets/ne300.jpg)
