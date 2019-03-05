@@ -2,6 +2,7 @@ import matplotlib.pyplot as plt
 import seabreeze.spectrometers as sb
 import numpy as np
 import time
+import os
 
 devices = sb.list_devices()
 print(devices)
@@ -49,7 +50,8 @@ data = data[np.newaxis].T
 arr = np.hstack((waves, data))
 print(arr.shape)
 
-np.savetxt("fanta", arr, newline="\n")
-#
-# data = np.loadtxt("fanta")
-# print(data.shape)
+filename = "data"
+num = 0
+while os.path.exists("{}{}.txt".format(filename, num)):
+    num += 1
+np.savetxt("{}{}.txt".format(filename, num), arr, newline="\n")
