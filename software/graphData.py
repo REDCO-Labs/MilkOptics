@@ -1,9 +1,8 @@
 import numpy as np
-import matplotlib.pyplot as plt
-from matplotlib import style
+import matplotlib
 import os
-
-style.use("ggplot")
+matplotlib.use('TKAgg')
+import matplotlib.pyplot as plt
 
 files = ["data/{}".format(file) for file in os.listdir("data/") if ".txt" in file]
 
