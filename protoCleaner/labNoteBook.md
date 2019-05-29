@@ -149,3 +149,5 @@ Le spectromètre Ocean Optics USB4000 est déjà calibré, c'est-à-dire que les
 ![](spectra/spectreFanta.PNG)
 
 > On observe une baisse d'intensité près de 440nm pour l'échantillon de Fantastick.
+
+*Spectres avec échantillon vide et d'eau après soustraction d'un spectre de référence sans échantillon*![](spectra/diff_empty_vs_water.PNG)
