@@ -144,6 +144,8 @@ Démontrer la faisabilité d'un système optique permettant de discriminer les d
 
 ![](protoCleaner/spectra/CS_VIS_results_norm_duo.png)
 
+> Possible changement du ratio de l'intensité des pics 620nm / 527nm qui augmente aussi avec le salissage. 
+
 ##### Lampe au mercure
 
 ![](protoCleaner/spectra/CS_HG_results.png)
