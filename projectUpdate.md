@@ -1,5 +1,11 @@
 # Suivi du sous-projet 1: Nettoyage des conduits
 
+#### Résumé exécutif
+
+Le but du projet consiste à démontrer la faisabilité d'un système optique permettant de discriminer les différentes solutions présentes dans le processus de nettoyage. Pour cela, la diffusion de la lumière visible a été observée sur les différents échantillons fournis, soit de l'eau, de la caustique propre, et de la caustique utilisée 1 jour et 7 jours. À l'aide de ce simple système, il est possible de différencier les degrés de salissage de la caustique, sans toutefois différencier la caustique propre de l'eau. Les données ont seulement été recueillies sur des échantillons statiques, alors qu'une solution hétérogène en mouvement fournirait nécessairement plus d'informations.
+
+On trouve alors pertinent d'intégrer le plus tôt possible un système afin de collecter des données dans une usine. Il sera alors intéressant d'analyser les données avec les logs du nettoyage pour voir si un tel système peut performer. 
+
 ### But
 
 Reconnaître la composition du mélange présent à l'intérieur des conduits en temps réel afin de mieux identifier les différentes phases du nettoyage et ainsi optimiser le processus.
@@ -187,3 +193,6 @@ Démontrer la faisabilité d'un système optique permettant de discriminer les d
 
   Si on a un système qui peut nous fournir assez d'information (plus qu'une simple source dans le visible), il serait alors intéressant d'usiner un contenant pour ce système pour l'installer rapidement dans les conduits d'une usine afin d'acquérir des données en masse et traiter le tout par Machine Learning afin d'aider à extraire la signature de chaque solution. 
 
+- Turbulence et séries temporelles
+
+  On observe que les échantillons ne sont pas parfaitement homogènes. Il serait alors pertinent d'obtenir des séries temporelles du signal d'intensité pour un flux des solutions, soit comme en usine. Une analyse en fréquence ou par machine learning pourrait probablement extraire de l'information utile.
