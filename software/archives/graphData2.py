@@ -5,7 +5,7 @@ import os
 matplotlib.use('TKAgg')
 import matplotlib.pyplot as plt
 
-files = ["data_19-05-27/{}".format(file) for file in os.listdir("data_19-05-27/") if ".txt" in file]
+files = ["data_19-05-27/{}".format(file) for file in os.listdir("../data/data_19-05-27/") if ".txt" in file]
 # files = ["data_hg/{}".format(file) for file in os.listdir("data_hg/") if ".txt" in file]
 
 minCut = 100

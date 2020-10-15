@@ -4,7 +4,7 @@ import os
 matplotlib.use('TKAgg')
 import matplotlib.pyplot as plt
 
-files = ["data/{}".format(file) for file in os.listdir("data/") if ".txt" in file]
+files = ["data/{}".format(file) for file in os.listdir("../data/") if ".txt" in file]
 
 minCut = 0
 maxCut = -1
